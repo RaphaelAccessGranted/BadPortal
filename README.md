@@ -1,2 +1,2 @@
-# BadPortal
-Captive Portal Attack Tool
+# BadPortal: Captive Portal Attacks
+
