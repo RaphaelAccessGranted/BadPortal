@@ -2,7 +2,7 @@
 
 <img src= "https://www.accessgranted.com.mx/wp-content/uploads/2020/12/badportal.png">
 
-# FEATURES: 
+# Features: 
 
 * Custom Captive Portal
 * Spear Phishing 
